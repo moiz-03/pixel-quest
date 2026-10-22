@@ -1,0 +1,8 @@
+# Android Signing (CRITICAL)
+android/key.properties
+*.jks
+*.keystore
+
+# Build artifacts (already there by default, but just in case)
+build/
+.dart_tool/

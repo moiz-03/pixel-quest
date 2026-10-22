@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202956459494",
+    "project_id": "pixel-quest-aba36",
+    "storage_bucket": "pixel-quest-aba36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202956459494:android:c40a1a34f699e2e1991a27",
+        "android_client_info": {
+          "package_name": "com.pixelquest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6fCcrjhITnCrBAqD03P63QTUn3O8jk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
