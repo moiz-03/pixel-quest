@@ -1,17 +1,12 @@
-# pixel_quest
+# Pixel Quest
+A retro pixel-art habit tracker built with Flutter and Firebase.
 
-A new Flutter project.
+🌐 **Website:** [https://pixel-quest-aba36.web.app](https://pixel-quest-aba36.web.app)  
+📱 **Download APK:** [Click here](https://pixel-quest-aba36.web.app/download)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Offline-first architecture using Firestore and SharedPreferences
+- Local notifications with interactive actions (Mark Done / Snooze)
+- XP, Levels, and a 7-tier ranking system
+- Streaks and purchasable Streak Freezes
+- 611 passing unit and widget tests
